@@ -1,0 +1,6 @@
+[submodule "code/shoebox"]
+	path = code/shoebox
+	url = git://github.com/zzak/shoebox.git
+[submodule "code/mojibake"]
+	path = code/mojibake
+	url = git://github.com/zzak/mojibake.rb.git
